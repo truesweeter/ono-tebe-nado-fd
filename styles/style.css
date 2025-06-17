@@ -1,1 +1,35 @@
-/* место для вашего кода */
+.header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+  margin-top: 95px;
+  margin-bottom: 95px;
+}
+
+.nav-list {
+  display: flex;
+  list-style: circle;
+  gap: 25px;
+  grid-column: 1;
+}
+
+.no-marker {
+  list-style: none;
+}
+
+.current-list-item {
+  text-decoration: none;
+}
+
+.logo {
+  width: 148px;
+  height: 105px;
+  grid-column: 2;
+}
+
+.address {
+  grid-column: 3;
+  font-style: normal;
+  justify-self: end;
+}
