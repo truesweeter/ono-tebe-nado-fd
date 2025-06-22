@@ -1,1 +1,1 @@
-https://github.com/truesweeter/ono-tebe-nado
+https://github.com/truesweeter/ono-tebe-nado-fd
