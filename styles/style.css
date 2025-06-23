@@ -276,6 +276,7 @@ html {
   margin-top: 145px;
   margin-left: 50px;
   margin-right: 50px;
+  margin-bottom: 82px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
